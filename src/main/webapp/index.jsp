@@ -1,5 +1,5 @@
-<html>
-<body>
-<h2>Hello World!</h2>
-</body>
-</html>
+<HTML>
+<BODY>
+ Hello! The time is now <%= new java.util.Date() %>
+</BODY>
+</HTML>
